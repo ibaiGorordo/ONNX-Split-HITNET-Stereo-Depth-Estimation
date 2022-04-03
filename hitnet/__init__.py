@@ -1,0 +1,1 @@
+from .hitnet import HitNet, ModelType, CameraConfig
